@@ -1,0 +1,49 @@
+
+.custom-button-padding {
+
+  padding-top: 18px;
+}
+
+.custom-logo-width img {
+
+  visibility: visible !important;
+  opacity: 1 !important;
+  max-height: none !important;
+  max-width: none !important;
+  width: 200px !important;
+}
+
+.custom-button-theme {
+
+  border: 0 !important;
+  background: linear-gradient(to right, #0b78b7, #0b78b7, #6dd425) !important;
+}
+
+.custom-color-primary {
+
+  color: #0b78b7 !important;
+}
+
+.custom-color-secondary {
+
+  color: #6dd425 !important;
+}
+
+.custom-text-theme {
+
+  background: linear-gradient(to right top, #6dd425, #6dd425, #0b78b7, #0b78b7, #0b78b7) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  border-image: linear-gradient(to right top, #6dd425, #6dd425, #0b78b7, #0b78b7, #0b78b7) !important;
+  border-image-slice: 1;
+}
+
+.custom-background-theme {
+
+  background: linear-gradient(to right top, #6dd425, #6dd425, #0b78b7, #0b78b7, #0b78b7) !important;
+}
+
+.custom-contact-header-theme {
+
+  background: linear-gradient(to right top, #0b78b7, #0b78b7, #0b78b7, #6dd425, #6dd425) !important;
+}
